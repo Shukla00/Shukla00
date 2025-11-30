@@ -1,5 +1,6 @@
 Hi, I'm **Vinayak Shukla** 👋  
-🎓 B.Tech *Information Technology* 4th year student  || 🌱 Currently learning MERN Stack  || 🤖 Aspiring AI Engineer  
+🎓 B.Tech *Information Technology* 4th year student  || 🌱 Currently learning MERN Stack  || 🤖 Aspiring AI Engineer.
+Love to Learn new things.
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/vinayak_shukl.a) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vinayak-shukla/) 
