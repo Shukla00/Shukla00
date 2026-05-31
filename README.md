@@ -5,6 +5,7 @@ Hi, I'm Vinayak Shukla 👋
 🤖 Building AI-Powered Applications & Intelligent Systems
 🚀 Passionate about Software Development, Web Technologies, and Applied AI
 📚 Continuously exploring modern technologies and scalable solutions
+⚛️ React.js | Python | Django | MongoDB
 Love to Learn new things.
 
 ## 🌐 Socials:
