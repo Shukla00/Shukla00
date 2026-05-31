@@ -1,6 +1,10 @@
-Hi, I'm **Vinayak Shukla** 👋  
-🎓 B.Tech *Information Technology* 4th year student  || 🌱 Currently learning MERN Stack  || 🤖 Aspiring AI Engineer.
+Hi, I'm Vinayak Shukla 👋
 
+🎓 B.Tech Information Technology Graduate (2026)
+💻 Full-Stack Developer | AI Enthusiast
+🤖 Building AI-Powered Applications & Intelligent Systems
+🚀 Passionate about Software Development, Web Technologies, and Applied AI
+📚 Continuously exploring modern technologies and scalable solutions
 Love to Learn new things.
 
 ## 🌐 Socials:
